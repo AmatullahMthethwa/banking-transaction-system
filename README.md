@@ -29,7 +29,7 @@ A full-stack banking transaction system built with Spring Boot and PostgreSQL.
 - PostgreSQL
 
 ### Frontend
-- React (planned)
+- React (planned)/ next.js
 
 ### DevOps
 - Docker
