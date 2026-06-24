@@ -19,17 +19,24 @@ A full-stack banking transaction system built with Spring Boot and PostgreSQL.
 ## Technology Stack
 
 ### Backend
-- Java
+- Java 21
 - Spring Boot
 - Spring Security
 - JWT
-- Maven
+- PostgreSQL
+- Docker
+- Swagger
+- JUnit
 
 ### Database
 - PostgreSQL
 
 ### Frontend
-- React (planned)/ next.js
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Axios or Fetch API
 
 ### DevOps
 - Docker
